@@ -1,126 +1,205 @@
-<h1 align="center">Hi 👋, I'm Pranav Singh</h1>
-<h3 align="center">Software Developer | Front-End Development & AI Solutions</h3>
+# ✦ Pranav Singh — Illustrated Portfolio
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=💻+Front-End+Developer;🤖+AI+Chatbot+%26+Automation+Builder;🌐+Building+Responsive%2C+Real+World+Web+Apps;🚀+Clean+Code+%7C+Clean+UI+%7C+No+Compromise&center=true&width=650&height=50">
-</p>
+> **AI Automation Engineer · Front-End Developer · AI Solutions**
 
----
+A modern, responsive and illustrated/cartoon-inspired personal portfolio website for **Pranav Singh**.  
+The design uses a light paper-style theme, hand-drawn elements, playful cards and a clean developer-focused layout.
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:singhpranav0612@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="tel:+918470817496">
-    <img src="https://img.shields.io/badge/Phone-%2B91%208470817496-25D366?style=for-the-badge&logo=whatsapp">
-  </a>
-  <a href="https://github.com/singhpranav0612-beep">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
-  </a>
-</p>
-
-<p align="center">
-  📍 Lucknow, India
-</p>
+🔗 **LinkedIn:** [Pranav Singh](https://www.linkedin.com/in/pranav-singh-0a49003a2)
 
 ---
 
-## 🚀 About Me
+## ✨ Features
 
-Results-driven Software Developer with hands-on experience building responsive, user-focused web applications using JavaScript, HTML, CSS, Bootstrap, and SQL. Skilled in front-end development, backend integration fundamentals, and AI chatbot development, with a strong eye for clean interface design and reliable, maintainable code. Quick to learn new tools and technologies, and comfortable collaborating in cross-functional teams to ship polished products on schedule.
-
-- 🔭 Currently working as a **Software Developer**
-- 🎓 Pursuing **B.Tech in Artificial Intelligence & Machine Learning** (2026 – 2030)
-- 🌱 Core strengths: **Front-End Development • Responsive UI/UX • AI Chatbot & Automation • Database Design (SQL) • Cross-Functional Collaboration**
-- 📫 Reach me: **singhpranav0612@gmail.com**
-
----
-
-## 🚀 What I Build
-
-• Responsive, Cross-Device Web Applications
-
-• AI Chatbots & AI Automation Workflows
-
-• E-commerce Websites (Product Listing → Cart → Checkout)
-
-• School / Institute Management Platforms
-
-• Reusable UI Components, Forms & Interactive Features
-
-• Admission / Enquiry Forms with Input Validation
+- 🎨 Light, illustrated / cartoon-inspired design
+- 📱 Fully responsive — desktop, tablet and mobile
+- 👨‍💻 Developer-focused hero section with profile image
+- 🧑‍💼 About Me section
+- 🛠️ Technical skills / toolbox
+- 💼 Professional experience timeline
+- 🚀 Featured projects
+- 🎓 Education section
+- 📩 Email, phone and LinkedIn contact buttons
+- ✨ Smooth reveal animations
+- 📌 Sticky navigation
+- 📱 Mobile hamburger navigation
+- ⚡ Pure HTML, CSS and JavaScript
+- 🚫 No framework or build process required
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Pranav
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,php,html,css,bootstrap,mysql,git,github,vscode" />
-</p>
+Pranav Singh is an AI Automation Engineer and Front-End Developer focused on building responsive web interfaces, AI-powered tools and workflow automation.
 
-**Programming Languages:** JavaScript, Python, PHP
-**Frontend Technologies:** HTML, CSS, Bootstrap
-**Databases:** SQL
-**Core Concepts:** Responsive Web Design, Web Application Development
-**AI Skills:** Prompt Engineering, Generative AI, AI Automation, AI Chatbot Development
+His technical toolkit includes **JavaScript, Python, PHP, HTML, CSS, Bootstrap, SQL, n8n, Prompt Engineering, Generative AI, AI Chatbot Development, Speech-to-Text APIs, Web Scraping and API Integration**.
 
 ---
 
-## 💼 Work Experience
+## 🧰 Tech Stack
 
-### Software Developer · TechPath, Mughalsarai
-`June 2025 – December 2025`
-
-- Engineered and maintained responsive, cross-device user interfaces using modern front-end technologies
-- Partnered with cross-functional team members to design and build web applications with HTML and CSS, elevating overall site responsiveness and user experience
-- Implemented pixel-consistent responsive layouts with CSS and Bootstrap, ensuring smooth performance across devices and browsers
-- Built reusable front-end components, page layouts, forms, and interactive UI features to speed up development cycles
-- Debugged, tested, and optimised existing web applications, improving reliability and reducing user-facing issues
+| Category | Technologies |
+|---|---|
+| Programming | JavaScript, Python, PHP |
+| Front-End | HTML, CSS, Bootstrap |
+| AI & Automation | n8n, Prompt Engineering, Generative AI, AI Automation |
+| AI Applications | AI Chatbot Development, Speech-to-Text APIs |
+| Integration | Web Scraping, API Integration |
+| Database | SQL |
+| Core | Responsive Web Design, Web Application Development, Workflow Automation |
 
 ---
 
-## 📦 Featured Projects
+## 💼 Experience
 
-### 🛒 E-commerce Website
-- Architected and built a full-featured e-commerce website from the ground up using HTML, CSS, JavaScript, and Bootstrap
-- Developed the complete shopping flow — product listings, product detail pages, cart, and checkout — for a seamless customer journey
-- Designed an intuitive, responsive interface that improved usability across desktop and mobile devices
-- Delivered clean, maintainable code with consistent, well-structured layouts
+### Software Developer — TechPath, Mughalsarai
+**June 2025 — December 2025**
 
-### 🏫 School Management Website
-- Designed and developed a fully responsive school management website spanning Home, About, Contact, and Admission modules
-- Built a functional Admission Form with input validation and basic backend integration to handle user inquiries
-- Improved site accessibility and mobile responsiveness, enhancing usability for all visitors
+- Developed responsive, cross-device user interfaces.
+- Built a Speech-to-Text tool using a third-party API.
+- Worked on web applications using HTML and CSS.
+- Created responsive layouts using CSS and Bootstrap.
+- Built reusable front-end components, layouts, forms and interactive UI features.
+- Debugged, tested and optimised web applications.
+
+---
+
+## 🚀 Projects
+
+### 01 — Speech-to-Text Tool
+A web-based tool that converts spoken audio into text using a Speech-to-Text API.
+
+**Focus:** API Integration · JavaScript · AI · Real-time transcription
+
+### 02 — Lead Generation Automation
+An n8n workflow that collects leads from web sources and public APIs, filters and formats the collected information, and produces structured lead data.
+
+**Focus:** n8n · Automation · Web Scraping · APIs
+
+### 03 — E-commerce Website
+A responsive e-commerce website featuring product listings, product details, cart and checkout flow.
+
+**Focus:** HTML · CSS · JavaScript · Bootstrap
+
+### 04 — School Management Website
+A responsive school management website containing Home, About, Contact and Admission modules, including an admission form with validation and basic backend integration.
+
+**Focus:** HTML · CSS · Bootstrap · Forms · Backend Integration
 
 ---
 
 ## 🎓 Education
 
-| 🎓 Degree | 🏫 Institution | 📅 Year |
-|---|---|---|
-| B.Tech, Artificial Intelligence and Machine Learning | GCRG Group of Institution | 2026 – 2030 |
-| Intermediate | Universal Public School, Chandauli | September 2022 |
-| High School | SRB School, Mughalsarai, Chandauli | July 2020 |
+### B.Tech — Artificial Intelligence and Machine Learning
+**GCRG Group of Institution**  
+2026 — 2030
+
+### Intermediate
+**Universal Public School, Chandauli**  
+September 2022
+
+### High School
+**SRB School, Mughalsarai, Chandauli**  
+July 2020
 
 ---
 
-## 🚀 Explore More Projects
-👉 https://github.com/singhpranav0612-beep?tab=repositories
+## 📁 Repository Structure
+
+```text
+pranav-singh-portfolio/
+│
+├── index.html       # Main portfolio page
+├── style.css        # Complete website styling
+├── script.js        # Navigation and animations
+├── profile.png      # Portfolio profile image
+├── README.md        # Project documentation
+└── .gitignore       # Git ignore rules
+```
 
 ---
 
-## 💼 Available For
+## 🖥️ Run Locally
 
-✅ Front-End Web Development
+### 1. Clone the repository
 
-✅ AI Chatbot & Automation Projects
+```bash
+git clone https://github.com/YOUR-USERNAME/pranav-singh-portfolio.git
+```
 
-✅ E-commerce & Business Websites
+### 2. Open the project
 
-✅ School / Institute Management Systems
+```bash
+cd pranav-singh-portfolio
+```
 
-✅ Reusable UI Components & Form Systems
+### 3. Run
 
-📩 Let's build something amazing together!
+Simply open:
+
+```text
+index.html
+```
+
+Or use **VS Code Live Server** for a local development server.
+
+---
+
+## 🌐 Deploy with GitHub Pages
+
+1. Push this project to a GitHub repository.
+2. Open the repository on GitHub.
+3. Go to **Settings → Pages**.
+4. Under **Build and deployment**, select:
+   - Source: `Deploy from a branch`
+   - Branch: `main`
+   - Folder: `/ (root)`
+5. Save.
+6. GitHub will generate your live portfolio URL.
+
+Example:
+
+```text
+https://YOUR-USERNAME.github.io/pranav-singh-portfolio/
+```
+
+---
+
+## 📬 Contact
+
+**Pranav Singh**
+
+📧 Email: `singhpranav0612@gmail.com`  
+📞 Phone: `+91 8470817496`  
+💼 LinkedIn: [linkedin.com/in/pranav-singh-0a49003a2](https://www.linkedin.com/in/pranav-singh-0a49003a2)
+
+---
+
+## 🎨 Design
+
+The portfolio follows a **light paper + hand-drawn illustration** aesthetic with:
+
+- Cream background
+- Bold typography
+- Yellow highlight strokes
+- Doodle cards
+- Illustrated project sections
+- Playful stickers
+- Rounded cards
+- Minimal black outlines
+- Responsive layouts
+
+---
+
+## 📄 License
+
+This project is a personal portfolio website created for **Pranav Singh**.
+
+You may use the code structure for learning and personal projects.  
+The personal profile image, personal information and portfolio content belong to their respective owner.
+
+---
+
+### ⭐ If you like the design, feel free to star the repository!
+
+**Built with HTML + CSS + JavaScript ✦**
